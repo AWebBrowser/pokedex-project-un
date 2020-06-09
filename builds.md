@@ -3,7 +3,7 @@
 
 Format:
 Build Area | Pokemon | Comments
-|--------------------------------- |----------------------- | -------------------------------|
+|------------------------------------------------- |----------------------- | -------------------------------|
 /p h Broncos 3 | (Clawitzer) | [none]|
 /p h Broncos 5 | (Shiny Tangrowth)| [none]|
 /p h CrazyManDavo 2 | (Eternamax Eternatus) | [A pain in the ass to complete :<]|
@@ -13,7 +13,7 @@ Build Area | Pokemon | Comments
 /p h MiningIsMyJob | (Shiny Drilbur, Cherubi, and Shiny Scyther) | [make sure to do /p centre]|
 /p h lsksniper 1 | (Shiny Magikarp) | [look behind]|
 /p h Skruffy | (Beartic and Chubcho) | [Griefed by Renters :(]|
-/p h `_ProPlayer_` 3 | (Gmax Pikachu and Cherubi) | [3 owners, maybe an illegal plot idk]|
+/p h `_ProPlayer_` 3 | (Gmax Pikachu and Cherubi) | [3 owners, maybe a weird plot idk]|
 /p h ebin | (Shinx) | [none]|
 /p h bmxomegamaster | (Shiny Emboar) |[SouthEast corner of the plot]|
 /p h ImInaty 3 | (Mega Mewtwo Y) | [none]|
@@ -41,5 +41,5 @@ Build Area | Pokemon | Comments
 
  Is Priority | Area | Build | In Progress?
 ----------------- | ------------------ | --------------- | ---------------
-- [x] |/p h Skruffy 2| Castle (3D Build) | [x]
-- [x] |/p h Blazens| Jirachi |
+- [x] | /p h Skruffy 2 | Castle (3D Build) | Yes
+- [x] | /p h Blazens | Jirachi | No
