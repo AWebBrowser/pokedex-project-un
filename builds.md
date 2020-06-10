@@ -39,7 +39,7 @@ Build Area | Pokemon | Comments
 
 #TODO
 
- Is Priority | Area | Build | In Progress?
+Priority Level | Area | Build | In Progress?
 ----------------- | ------------------ | --------------- | ---------------
-- [x] | /p h Skruffy 2 | Castle (3D Build) | Yes
-- [x] | /p h Blazens | Jirachi | No
+1 | /p h Skruffy 2 | Castle (3D Build) | Yes
+2 | /p h Blazens | Jirachi | No
