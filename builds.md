@@ -1,5 +1,5 @@
-#Logging ~~only Pokemon~~ all Builds (may have lost a few along the way)
-#Updated: 8 June 2020 17:25 UTC-4
+# Logging ~~only Pokemon~~ all Builds (may have lost a few along the way)
+# Updated: 8 June 2020 17:25 UTC-4
 
 Format:
 Build Area | Pokemon | Comments
@@ -35,9 +35,9 @@ Build Area | Pokemon | Comments
 /p h sophiex | Gligar | Top kek maze 10/10 |
 /p h Zeeevy | Shiny Darkrai + Non-Shiny Darkrai | [I like lore.] |
 
-##Total Build Count: 45 (Yes I ~~am~~ *probably am* missing a few.)
+## Total Build Count: 45 (Yes I ~~am~~ *probably am* missing a few.)
 
-#TODO
+# TODO
 
 Priority Level | Area | Build | In Progress?
 ----------------- | ------------------ | --------------- | ---------------
