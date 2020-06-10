@@ -28,7 +28,7 @@ Build Area | Pokemon | Comments
 /p h ItsNotJustAGame|Shiny Mewtwo|[Player Quit, Pokedex entries avalible if wanted]|
 /p h atdz|One Piece Characters|[1 is unfinished, plot owner quit]|
 /p h Vitinhor 5|Shiny Luxray| [None]|
-/p h Fueredefoco|Shiny Pikachu|[I like spanish players, they aren't as toxic :) Except [redacted] ofc]|
+/p h Fueredefoco|Shiny Pikachu|[I like spanish players, they aren't as toxic :) Except ivan ofc]|
 /p h Juaq 2| Shiny Ash Greninja | [First time using transparency on the server]
 /p h houmangaming82|Shiny Plusle|[First Shiny on the server]|
 /p h GangBeast| Mr.Rime | First Gen 8 Pokemon|
