@@ -1,5 +1,5 @@
 # Logging ~~only Pokemon~~ all Builds (may have lost a few along the way)
-# Updated: 8 June 2020 17:25 UTC-4
+# Updated: 11 June 2020 13:18 UTC-4
 
 Format:
 Build Area | Pokemon | Comments
@@ -34,12 +34,14 @@ Build Area | Pokemon | Comments
 /p h GangBeast| Mr.Rime | First Gen 8 Pokemon|
 /p h sophiex | Gligar | Top kek maze 10/10 |
 /p h Zeeevy | Shiny Darkrai + Non-Shiny Darkrai | [I like lore.] |
+/p h KianErfan_YT | Shiny Yvetal | Gen 6 Getting love
+/p h Skruffy 2 | Castle (3D Build) | Yes
+/p h `_Shadow_` 2 | Pikachu | Hopefully no one destroys this one :v
 
-## Total Build Count: 45 (Yes I ~~am~~ *probably am* missing a few.)
+## Total Build Count: 46 (Yes I ~~am~~ *probably am* missing a few.)
 
 # TODO
 
 Priority Level | Area | Build | In Progress?
 ----------------- | ------------------ | --------------- | ---------------
-1 | /p h Skruffy 2 | Castle (3D Build) | Yes
-2 | /p h Blazens | Jirachi | No
+1 | /p h Blazens | Jirachi | No
