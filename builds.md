@@ -7,12 +7,14 @@ Build Area | Pokemon | Comments
 /p h Broncos 3 | (Clawitzer) | [none]|
 /p h Broncos 5 | (Shiny Tangrowth)| [none]|
 /p h CrazyManDavo 2 | (Eternamax Eternatus) | [A pain in the ass to complete :<]|
+/p h CrazyManDavo 4 | Shiny Mega Charizard X | no opacity changes, would've been cool though|
 /p h xbapak 3| (Shadow Lugia) | [First time messing with colour palettes]|
 /p h StevieWonderr | (Shiny Pikachu with original ash hat) | [Rebuilt once]|
 /p h Rae * | Multiple Pokemon | [`1=Charmander`,`3 = Blastoise`, `6 = Articuno and Charizard`]|
 /p h MiningIsMyJob | (Shiny Drilbur, Cherubi, and Shiny Scyther) | [make sure to do /p centre]|
 /p h lsksniper 1 | (Shiny Magikarp) | [look behind]|
-/p h Skruffy | (Beartic and Chubcho) | [Griefed by Renters :(]|
+/p h Skruffy | (Beartic, Chubcho, and Ursaring) | [Former two griefed by Renters :(]|
+/p h Skruffy 2 | Castle (3D Build) | Yes |
 /p h `_ProPlayer_` 3 | (Gmax Pikachu and Cherubi) | [3 owners, maybe a weird plot idk]|
 /p h ebin | (Shinx) | [none]|
 /p h bmxomegamaster | (Shiny Emboar) |[SouthEast corner of the plot]|
@@ -34,11 +36,14 @@ Build Area | Pokemon | Comments
 /p h GangBeast| Mr.Rime | First Gen 8 Pokemon|
 /p h sophiex | Gligar | Top kek maze 10/10 |
 /p h Zeeevy | Shiny Darkrai + Non-Shiny Darkrai | [I like lore.] |
-/p h KianErfan_YT | Shiny Yvetal | Gen 6 Getting love
-/p h Skruffy 2 | Castle (3D Build) | Yes
-/p h `_Shadow_` 2 | Pikachu | Hopefully no one destroys this one :v
+/p h KianErfan_YT | Shiny Yvetal | Gen 6 Getting love |
+/p h `_Shadow_` 2 | Pikachu | Hopefully no one destroys this one :v |
+/p h xbapak01 4 | Shiny Dialga | Kinda cool with endstone + white concrete, might be a techinque I might use later |
+/p h xbapak01 3 | 3D Meteor | It kinda looks like a burning meatball |
+/p h StrikerSlaher 2 | Complete Zacian | doggo. |
+/p h ebin 2 | Luxio | electric cat dog hybrid thing (no srsly what is supposed to be based off of) |
 
-## Total Build Count: 46 (Yes I ~~am~~ *probably am* missing a few.)
+## Total Build Count: 48 (Yes I ~~am~~ *probably am* missing a few.)
 
 # TODO
 
