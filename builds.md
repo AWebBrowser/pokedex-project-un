@@ -1,5 +1,5 @@
 # Logging ~~only Pokemon~~ all Builds (may have lost a few along the way)
-# Updated: 11 June 2020 13:18 UTC-4
+# Updated: 15 June 2020 17:58 UTC-4
 
 Format:
 Build Area | Pokemon | Comments
@@ -42,11 +42,9 @@ Build Area | Pokemon | Comments
 /p h xbapak01 3 | 3D Meteor | It kinda looks like a burning meatball |
 /p h StrikerSlaher 2 | Complete Zacian | doggo. |
 /p h ebin 2 | Luxio | electric cat dog hybrid thing (no srsly what is supposed to be based off of) |
-
-## Total Build Count: 48 (Yes I ~~am~~ *probably am* missing a few.)
+/p h HeyItzPatrick | Shiny Palkia, Shiny Black Kyurem, Shiny Attack Deoxys, Shiny Primal Groudon, Shiny Mega Rayquaza, 霊夢博灑 (ちび) | Touhou is a hard game :v |
+/p h Blazens | Jirachi | wish pokemon 七夕 |
+## Total Build Count: 61 (Yes I ~~am~~ *probably am* missing a few.)
 
 # TODO
-
-Priority Level | Area | Build | In Progress?
------------------ | ------------------ | --------------- | ---------------
-1 | /p h Blazens | Jirachi | No
+- [x] nothing
